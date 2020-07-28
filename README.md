@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kealdishx&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+-->
+<a href="https://github.com/kealdishx">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kealdishx" height="230"/>
+</a>
+<a href="https://github.com/kealdishx">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kealdishx&show_icons=true" height="230"/>
+</a>
 
 - 🔭 I’m currently working on iOS in kwai company.
