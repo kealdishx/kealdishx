@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kealdishx&show_icons=true" height="230"/>
 </a>
 
-- 🔭 I’m currently working on iOS in kwai company.
+- 🔭 I’m currently working on Java/iOS in kwai company.
